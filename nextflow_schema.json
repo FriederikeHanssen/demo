@@ -85,6 +85,10 @@
                     "type": "boolean",
                     "description": "Skip trimming fastq files with seqtk",
                     "fa_icon": "fas fa-chevron-circle-right"
+                },
+                "skip_fastqc": {
+                    "type": "boolean",
+                    "fa_icon": "fas fa-angle-double-right"
                 }
             }
         },
